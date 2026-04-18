@@ -11,4 +11,5 @@ export default defineConfig({
     environment: "jsdom",
     globals: true,
   },
+  base: "/react-smart-counter/",
 });

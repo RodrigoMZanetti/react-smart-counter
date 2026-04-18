@@ -2,11 +2,11 @@
 
 Live Demo
 
-👉 (add your GitHub Pages link here after deploy)
+👉 https://rodrigomzanetti.github.io/react-smart-counter/
 
 ## Preview
 
-MISSS HERE
+![APP PREVIEW](./public/dev.gif)
 
 ## Overview
 
@@ -56,7 +56,7 @@ vite-project-smart-counter/
 ## How to Run the Project
 
 - Clone the repository
-  git clone https://github.com/your-username/vite-project-smart-counter.git
+  git clone https://github.com/RodrigoMZanetti/react-smart-counter
 - Navigate to the project folder
   cd vite-project-smart-counter
 - Install dependencies
@@ -70,15 +70,13 @@ vite-project-smart-counter/
 
 - Run tests in watch mode
 - npm run test
-- Vitest will automatically:
-  - Detect test files
-  - Run tests on save
-  - Show PASS/FAIL results in the terminal
+- Vitest will automatically: detect test files, run tests on save, show PASS/FAIL results in the terminal
 
-  ## Testing Overview
-  - Basic unit tests were implemented using Vitest.
-  - The project includes initial test cases to validate expected behaviors.
-  - Tests follow a structured pattern using: - describe to group tests - it to define scenarios - expect to validate results
+## Testing Overview
+
+- Basic unit tests were implemented using Vitest.
+- The project includes initial test cases to validate expected behaviors.
+- Tests follow a structured pattern using: - describe to group tests - it to define scenarios - expect to validate results
 
 - Example:
 
